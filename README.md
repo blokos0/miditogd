@@ -1,5 +1,5 @@
 # miditogd
-a python script for converting .midi files to gd sfx triggers
+a python script for converting .midi files to gd sfx triggers (requires the mido library
 
 this is moreso meant for personal use, so actually using it is a little tricky
 
